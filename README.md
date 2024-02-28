@@ -1,3 +1,5 @@
 # TesisDeGrado-IgnacioCampon
+
 Tesis de Grado de la Licenciatura en Estadística de la UDELAR, realizada por Ignacio Campón durante 2023-2024. Este repositorio contiene los documentos y toda la información necesaria para replicar el trabajo de investigación realizado.
+
 La tesis consiste en la construcción de modelos mixtos desde un enfoque bayesiano aplicado a tarifas de saneamiento de la Intendencia de Montevideo.

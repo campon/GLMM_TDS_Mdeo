@@ -48,5 +48,11 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Results folder (too heavy)
-results
+# Folders (too heavy)
+results/
+data/
+
+*.RData
+*.dbf
+*.shp
+compute/data/raw_and_processed_data

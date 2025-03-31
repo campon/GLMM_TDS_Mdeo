@@ -1,5 +1,9 @@
-# TesisDeGrado-IgnacioCampon
+# Generalized Linear Mixed Models applied in public sanitation fee from Montevideo, Uruguay 
 
-Tesis de Grado de la Licenciatura en Estadística de la UDELAR, realizada por Ignacio Campón durante 2023-2024. Este repositorio contiene los documentos y toda la información necesaria para replicar el trabajo de investigación realizado.
+This thesis was developed to fulfill the requirements for the Bachelor's degree in Statistics (Licenciatura en Estadística) from the Faculty of Economic and Administrative Sciences (FCEA) at the University of the Republic (Udelar). The research was carried out in 2023 and 2024 and successfully defended in October 2024, under the supervision of Professor Fernando Massa Mandagarán.
 
-La tesis consiste en la construcción de modelos mixtos desde un enfoque bayesiano aplicado a tarifas de saneamiento de la Intendencia de Montevideo.
+In an ideal city, where all citizens have access to a comprehensive sanitation network and wastewater discharges are managed in a way that does not pollute the environment, a significant improvement in quality of life could be expected. However, this scenario differs greatly from reality, especially when we consider the infrastructure and maintenance required to operate a sanitation network serving more than one million inhabitants. Managing infrastructure on this scale involves substantial financial costs. For this reason, it is crucial to study payment patterns in areas where a sanitation network already exists, in order to identify strategies that ensure a higher payment rate for these services and thereby guarantee the financial sustainability of urban sanitation systems.
+
+This research examines the payment behavior for sanitation fees in Montevideo, Uruguay, among existing users between May 2001 and December 2022. A series of logistic models is constructed to predict the probability of paying sanitation fees. The presence of spatial autocorrelation, indicated by Moran’s Index, was confirmed in the data, which led to modeling the response variable with approaches that account for spatial variability. CAR (Conditional Autoregressive) models and ICAR (Intrinsic Conditional Autoregressive) models prove to be the most suitable options to capture the existing spatial variability and to make predictions for new observations.
+
+Keywords: Logistic Models, Mixed Models, Spatial Statistics, Areal Data, Spatial Autocorrelation, Conditional Autoregressive Models, and Intrinsic Conditional Autoregressive Models.
